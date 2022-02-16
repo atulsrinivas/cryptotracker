@@ -1,3 +1,18 @@
 body{
-    background-color: rgb(207, 197, 189);
+    background-color: #021016;
+}
+h3,h5{
+    color:#e5e5e5;
+}
+label{
+    color: aliceblue;
+}
+h1{
+    color: rgb(143, 106, 5);
+}
+.fix{
+    border:2px solid #030942;
+    border-radius: 20px;
+    background-color:#014768 ;
+    padding: 10px;
 }
